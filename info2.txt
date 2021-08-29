@@ -1,6 +1,4 @@
 Recreating the repos
-<<<<<<< HEAD
 Adding new details for testing
-=======
-I am working in a branch now and unaware of the change in master. (This file) 
->>>>>>> features3
+I am working in a branch now and unaware of the change in master. (This file)
+trying to push with this change
